@@ -23,9 +23,9 @@
 ### Part 1
 - [x] Make one mixin for the 3 lines of the box-shadow styling.
 
-- [ ] Make the general padding the same everywhere with one variable. (red=16px, blue=8px), the footer h6 should have double the padding of the other elements. Use "operations" to do this. Do NOT hardcode the padding inside your scss. 
+- [x] Make the general padding the same everywhere with one variable. (red=16px, blue=8px), the footer h6 should have double the padding of the other elements. Use "operations" to do this. Do NOT hardcode the padding inside your scss. 
 
-- [ ] Nest the styling rules of grouped elements, like the sections in the Article.
+- [x] Nest the styling rules of grouped elements, like the sections in the Article.
 
 - [ ] Make use of extend to re-use the same CSS for the "success", "error" and "warning" messages.
 
